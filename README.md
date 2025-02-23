@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Alex</h1>
 <h3 align="center">A passionate computer science student from Norway, former a ER and ICU nurse!</h3>
 
-- 🔭 I’m currently working on **an app to replace the current paper format used for pregnant woman**
+- 🔭 I’m currently working on **an app suggestion to replace the current paper format used for pregnant woman in Norwegian healthcare systems**
 
-- 🌱 I’m currently learning **OS, computer architecture & how full-stack app development!**
+- 🌱 I’m currently learning **OS, computer architecture & how full-stack app development in school!**
 
-- ⚡ Fun fact **I sometimes forget which language to use when talking to patients.**
+- ⚡ Fun fact **I sometimes get excited and forget which language to use when talking to patients, having to use Google Translate...**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
