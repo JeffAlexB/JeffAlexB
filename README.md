@@ -15,12 +15,14 @@
         <td><b>🎁 Projects</b></td>
         <td><b>⭐ What its about</b></td>
         <td><b>📚 Documentation</b></td>
+        <td><b> Technology </b></td>
     </thead>
     <tbody>
         <tr>
-            <td><a href="https://github.com/JeffAlexB"><b>Project1</a></b></td>
-            <td>A Project!</td>
-            <td>Coming soon!</td>
+            <td><a href="[https://github.com/JeffAlexB](https://github.com/JeffAlexB/readmidtcheck/tree/main?tab=readme-ov-file)"><b>30-day readmission prediction</a></b></td>
+            <td>An ML project using various models to provide a 30-day readmission prediction for high/at-risk patients to be used for flagging potential patients</td>
+            <td><a href="https://github.com/JeffAlexB/readmidtcheck/blob/main/README.md"> Project description and overview! </td>
+            <td> Uses Python for basic logic, scikit-learn for traning the models, and matplotlib/seaborn for visualization. Jupyter Notebook based on hosted on Binder for ease of testing for end-users.</td>
         </tr>
     </tbody>
 </table>    
