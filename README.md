@@ -3,9 +3,9 @@
 
 - 🔭 I’m currently working on - **an app suggestion to replace the current paper format used for pregnant woman in Norwegian healthcare systems**
 
-- 🌱 I’m currently learning - **OS, computer architecture & how full-stack app development in school!**
+- 🌱 I’m currently learning - **OS, computer architecture & how to develop full-stack apps!**
 
-- ⚡ Fun fact - **I sometimes get excited and forget which language to use when talking to patients, having to use Google Translate...**
+- ⚡ Fun fact - **I sometimes get excited and forget which language to use when talking to patients**
 
 ------------
 
