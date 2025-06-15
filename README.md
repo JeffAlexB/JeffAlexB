@@ -1,5 +1,5 @@
 <h2 align="center">Hi 👋, I'm Alex</h2>
-<h3>A passionate computer science student from Norway <img src="https://cdn-icons-png.flaticon.com/512/197/197579.png" width="20"/>, a former ER and ICU nurse!</h3>
+<h3>A passionate computer science graduate from Norway <img src="https://cdn-icons-png.flaticon.com/512/197/197579.png" width="20"/>, and a former ER & ICU nurse!</h3>
 
 - 🔭 I’m currently working on - **an app suggestion to replace the current paper format used for pregnant woman in Norwegian healthcare systems**
 
