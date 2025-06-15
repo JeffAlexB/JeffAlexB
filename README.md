@@ -24,6 +24,18 @@
             <td><a href="https://github.com/JeffAlexB/readmidtcheck/blob/main/README.md"> Project description and overview! </td>
             <td> Uses Python for basic logic, scikit-learn for traning the models, and matplotlib/seaborn for visualization. Jupyter Notebook based on hosted on Binder for ease of testing for end-users.</td>
         </tr>
+        <tr>
+            <td><a href="[https://github.com/JeffAlexB/IMU-sensor)"><b>IMU-Sensor simulation</a></b></td>
+            <td>An extension of a project that simualtes a IMU 9-axis over time</td>
+            <td><a href="https://github.com/JeffAlexB/IMU-sensor/blob/main/README.md"> Project description and overview of the sensor! </td>
+            <td> Uses Python for basic logic, matplotlib/seaborn for visualizing graphs and a basic 3D rendering of the sensor's simulated motion.</td>
+        </tr>
+        <tr>
+            <td><a href="[https://github.com/JeffAlexB/Grid-Challenge)"><b>Grid Challenge</a></b></td>
+            <td>Overview and walkthrough of a grid logic challenge</td>
+            <td><a href="https://github.com/JeffAlexB/Grid-Challenge/blob/main/README.md"> Project overview and discussing the challenge solution! </td>
+            <td> Uses Java for basic logic and code solution, provides both monolitic and OOP/SOLID approach to solution.</td>
+        </tr>
     </tbody>
 </table>    
 
