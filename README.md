@@ -1,11 +1,11 @@
 <h2 align="center">Hi 👋, I'm Alex</h2>
-<h3>A passionate computer science graduate from Norway <img src="https://cdn-icons-png.flaticon.com/512/197/197579.png" width="20"/>, and a former ER & ICU nurse!</h3>
+<h3>A passionate computer science graduate, full-stack developer from Norway <img src="https://cdn-icons-png.flaticon.com/512/197/197579.png" width="20"/>, and a former ER & ICU nurse!</h3>
 
 - 🔭 I’m currently working on - **an app suggestion to replace the current paper format used for pregnant woman in Norwegian healthcare systems**
 
-- 🌱 I’m currently learning - **OS, computer architecture & how to develop full-stack apps!**
+- 🌱 I’m currently learning - **Typescript, Angular and how to develop full-stack apps!!**
 
-- ⚡ Fun fact - **I sometimes get excited and forget which language to use when talking to patients**
+- ⚡ Fun fact - **I sometimes get excited and forget which language to use when talking to people...**
 
 ------------
 
@@ -19,6 +19,12 @@
     </thead>
     <tbody>
         <tr>
+          <td><a href="[https://github.com/JeffAlexB/BarselPlus)"><b>BarselPlus</b></a></td>
+          <td>Healthcare application to digitize pregnancy tracking and clinical documentation</td>
+          <td><a href="https://github.com/JeffAlexB/BarselPlus">Description and documentation!</a></td>
+          <td>Umbrella repo with documentation, architecture, and links to backend and frontend. Currently a demo / vertical slice of overall functionality. Uses Postgres, Java, SpringBoot and Angular.</td>
+        </tr>
+        <tr>
             <td><a href="[https://github.com/JeffAlexB](https://github.com/JeffAlexB/readmidtcheck/tree/main?tab=readme-ov-file)"><b>30-day readmission prediction</a></b></td>
             <td>An ML project using various models to provide a 30-day readmission prediction for high/at-risk patients to be used for flagging potential patients</td>
             <td><a href="https://github.com/JeffAlexB/readmidtcheck/blob/main/README.md"> Project description and overview! </td>
@@ -27,14 +33,26 @@
         <tr>
             <td><a href="[https://github.com/JeffAlexB/IMU-sensor)"><b>IMU-Sensor simulation</a></b></td>
             <td>An extension of a project that simualtes a IMU 9-axis over time</td>
-            <td><a href="https://github.com/JeffAlexB/IMU-sensor/blob/main/README.md"> Project description and overview of the sensor! </td>
+            <td><a href="https://github.com/JeffAlexB/IMU-sensor/blob/main/README.md"> Project description and overview of the sensor!</td>
             <td> Uses Python for basic logic, matplotlib/seaborn for visualizing graphs and a basic 3D rendering of the sensor's simulated motion.</td>
         </tr>
+         <tr>
+            <td><a href="[https://github.com/JeffAlexB/DSA)"><b>DSA practice</a></b></td>
+            <td>Collection of data structures & algorithms solutions (LeetCode, Project Euler, Edabit, etc.)</td>
+            <td><a href="https://github.com/JeffAlexB/DSA">Walkthroughs! </td>
+            <td>Implemented in Java with examples like the 'grid challenge', 'minesweeper'. Focus on problem-solving and clean coding practices.</td>
+        </tr>
         <tr>
-            <td><a href="[https://github.com/JeffAlexB/Grid-Challenge)"><b>Grid Challenge</a></b></td>
-            <td>Overview and walkthrough of a grid logic challenge</td>
-            <td><a href="https://github.com/JeffAlexB/Grid-Challenge/blob/main/README.md"> Project overview and discussing the challenge solution! </td>
-            <td> Uses Java for basic logic and code solution, provides both monolitic and OOP/SOLID approach to solution.</td>
+            <td><a href="[https://github.com/JeffAlexB/Consultant-Onboarding-Portfolio)"><b>Consultant Training Portfolio</b></a></td></a></b></td>
+            <td>Collection of full-stack training projects (Java · Spring Boot · Angular · PostgreSQL)</td>
+            <td><a href="https://github.com/JeffAlexB/Consultant-Onboarding-Portfolio">View Portfolio!</td>
+            <td>Sanitized demonstrations based on internal onboarding modules. Proprietary material excluded.</i></td>
+        </tr>
+        <tr>
+          <td><a href="[https://github.com/JeffAlexB/CS-to-MS-EE-Pathway)"><b>CS to MS-EE/CE Pathway</b></a></td>
+          <td>Structured learning roadmap to bridge Computer Science background into Electrical & Computer Engineering for graduate study</td>
+          <td><a href="https://github.com/JeffAlexB/CS-to-MS-EE-Pathway">(Potential) Roadmap!</a></td>
+          <td>Includes curated MIT OCW, Coursera, and open-source resources in math, physics, embedded systems, and aerospace topics. Features progress tracker, BOM for hardware kits, and project milestones.</td>
         </tr>
     </tbody>
 </table>    
@@ -62,11 +80,12 @@
     <img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" />
 </p>
 
-<h3>Write-downs and documentation: </h3>
+<h3>Writing & Reflections</h3>
 <ul>
-    <li><a href="https://github.com/JeffAlexB"><b>Project documentation part 1!</b></a><br/><i>Write-up of the project, part 1?!</i></li>
-    <li><a href="https://github.com/JeffAlexB"><b>Project documentation part 2!</b></a><br/><i>Write-up of the project, part 2?!</i></li>
-    <li><a href="https://github.com/JeffAlexB"><b>Project documentation part 3!</b></a><br/><i>Write-up of the project, part 3?!</i></li>
+  <li><a href="https://github.com/JeffAlexB/CS-to-MS-EE-Pathway/docs/math-reflection.md"><b>Mathematics Foundations</b></a><br/>
+    <i>Notes and reflections after completing the MIT OCW single-variable calculus + linear algebra track.</i></li>
+  <li><a href="https://github.com/JeffAlexB/BarselPlus/docs/testing-strategy.md"><b>BarselPlus Testing Strategy</b></a><br/>
+    <i>Design choices, integration tests, and lessons learned building a Spring Boot backend.</i></li>
 </ul>
 
 ------------
